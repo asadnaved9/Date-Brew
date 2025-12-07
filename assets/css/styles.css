@@ -425,6 +425,7 @@ button {
 
 .products__name {
   font-size: var(--normal-font-size);
+  color: rgb(106, 95, 95);
 }
 
 .products__button {
