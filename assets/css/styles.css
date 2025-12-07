@@ -135,6 +135,7 @@ button {
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
+  background-color: hsla(206, 12%, 12%, 1);
 }
 
 .nav {
@@ -393,6 +394,8 @@ button {
   grid-template-columns: 200px;
   justify-content: center;
 }
+
+
 
 .products__card {
   background-color: var(--container-color);

@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
     <a href="https://coffee-2-fv.netlify.app" target="_blank">
       <img src="design/preview.png" alt="Project Banner">
     </a>
@@ -46,4 +46,4 @@ git clone {git remote URL}
 <br/>**Running the Project**
 
 Use [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-to launch a development local server with live reload feature for static & dynamic pages.
+to launch a development local server with live reload feature for static & dynamic pages. -->
