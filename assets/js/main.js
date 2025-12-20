@@ -108,7 +108,7 @@ const hoursEl = document.getElementById('hours');
 const minutesEl = document.getElementById('minutes');
 
 if (daysEl && hoursEl && minutesEl) {
-  const launchDate = new Date(2026, 0, 5, 0, 0, 0).getTime(); // Jan 1, 2025
+  const launchDate = new Date(2026, 0, 15, 0, 0, 0).getTime(); // Jan 1, 2025
 
   function updateFlipCountdown() {
     const now = new Date().getTime();
